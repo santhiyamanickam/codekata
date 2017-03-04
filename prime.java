@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class prime
+class palindrome
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
@@ -20,11 +20,11 @@ class prime
 		}
 		if(temp==r)
 		{
-		System.out.println("This is prime number");
+		System.out.println("This is palindrome number");
 		}
 		else
 		{
-			System.out.println("The number is not prime");
+			System.out.println("The number is not palindrome");
 		}
 		}
 	}
