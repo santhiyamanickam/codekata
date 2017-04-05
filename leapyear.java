@@ -3,7 +3,7 @@ class leapyear{
 public static void main(string args[])
 {
 Scanner in=new Scanner(Syatem.in);
-int in=b.nextInt;
+int a=b.nextInt;
 if(a%4==0)
 {
 System.out.println("This is a leap year";);
