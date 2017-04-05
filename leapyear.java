@@ -2,7 +2,7 @@ import java.util.scanner;
 class leapyear{
 public static void main(string args[])
 {
-Scanner in=new Scanner(Syatem.in);
+Scanner b=new Scanner(System.in);
 int a=b.nextInt;
 if(a%4==0)
 {
